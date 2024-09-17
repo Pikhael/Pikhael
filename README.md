@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in life (the hard way)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-      Email: aaasuncion1@up.edu.ph
+-      Email: aaasuncion1@up.edu.ph
 
 <!---
 Pikhael/Pikhael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
